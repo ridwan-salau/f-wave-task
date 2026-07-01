@@ -1,0 +1,17 @@
+# Model artifacts
+models/
+
+# Video files
+sumission.webm
+sumission.mp4
+sumission_fast.mp4
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Outputs
+outputs/

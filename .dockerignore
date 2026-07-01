@@ -1,0 +1,10 @@
+models/
+outputs/
+__pycache__/
+*.pyc
+.git/
+.DS_Store
+*.ipynb
+prompt.md
+Flutterwave*.xlsx
+~$*.xlsx
